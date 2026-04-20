@@ -9,7 +9,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-  - host: rajasekhartech.site
+  - host: 2048.rajasekhartech.site
     http:
       paths:
       - path: /
